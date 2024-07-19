@@ -15,7 +15,10 @@ Jag-Quiz is a fun and interactive quiz app built using HTML, CSS, and JavaScript
 
 ![Screenshot 2024-07-19 180202](https://github.com/user-attachments/assets/de8ab345-bd17-4845-954c-e8f1f75cb598)
 
+## Live Demo🤖
+---------
 
+<a href="https://jagratimehta410.github.io/Jag-Quiz/" target="_blank">Live 👉 Click to generate the password !</a>
 ## 🛠️ Technologies Used
 
 - **HTML**: Structure of the app.
