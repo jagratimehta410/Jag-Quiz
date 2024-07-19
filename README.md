@@ -13,7 +13,6 @@ Jag-Quiz is a fun and interactive quiz app built using HTML, CSS, and JavaScript
 
 ## 📷 Screenshots
 
-![Screenshot 2024-07-19 180131](https://github.com/user-attachments/assets/19a42f55-101e-489a-88a7-172e64a264ff)
 ![Screenshot 2024-07-19 180202](https://github.com/user-attachments/assets/de8ab345-bd17-4845-954c-e8f1f75cb598)
 
 
